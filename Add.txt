@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Stworzenie folderu o nazwie podanej przez parametr
+
+mkdir $1
+
+# Przejscie do tego folderu
+
+cd $1
+
