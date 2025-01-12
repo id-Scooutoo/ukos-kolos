@@ -1,0 +1,10 @@
+
+# Zacommitowanie zmiany z komentarzem "Clean up"
+
+git commit -m "Clean up"
+
+# Wrzucenie zmiany na zdalne repo na odpowiednia galaz
+
+git push origin Test
+
+
